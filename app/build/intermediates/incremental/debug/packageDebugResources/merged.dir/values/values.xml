@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anyze Manga Browser</string>
+    <string name="publisher_name">Anyze Studio</string>
+    <style name="Theme.MangaBrowser" parent="android:Theme.Material.Light.NoActionBar"/>
+</resources>
