@@ -1,0 +1,3 @@
+[submodule "app/src/main"]
+	path = app/src/main
+	url = https://github.com/suse-git/Anyze-Browser-main.git
