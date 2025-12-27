@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.mangabrowser"
+    namespace = "com.anyzebrowser"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.mangabrowser"
+        applicationId = "com.anyzebrowser"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -23,7 +23,9 @@ android {
 
     buildTypes {
         release {
-            isMinifyEnabled = false
+            isDebuggable = false
+            isMinifyEnabled = true
+            isShrinkResources = true
             proguardFiles(
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"

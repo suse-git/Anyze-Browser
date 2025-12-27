@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mangabrowser.app-mergeDebugResources-50:/values/values.xml",
+            "outputFile": "com.anyzebrowser.app-mergeDebugResources-50:/values/values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nayak\\.gradle\\caches\\8.10.2\\transforms\\d401a3257c0ca07e81e130598f6f9226\\transformed\\jetified-customview-poolingcontainer-1.0.0\\res\\values\\values.xml",

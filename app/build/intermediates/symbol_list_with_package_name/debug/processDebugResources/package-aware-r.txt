@@ -1,4 +1,4 @@
-com.example.mangabrowser
+com.anyzebrowser
 attr action
 attr alpha
 attr argType

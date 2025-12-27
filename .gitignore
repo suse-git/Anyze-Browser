@@ -8,10 +8,20 @@
 .externalNativeBuild
 .cxx
 local.properties
+
 # Keystore files
 *.jks
 *.keystore
+
 # Google Services
 google-services.json
+
 # Heap dumps
 *.hprof
+
+# Build and Release artifacts
+**/build/
+**/release/
+*.apk
+*.aab
+output-metadata.json

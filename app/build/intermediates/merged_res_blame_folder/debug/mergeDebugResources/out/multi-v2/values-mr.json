@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mangabrowser.app-mergeDebugResources-50:/values-mr/values-mr.xml",
+            "outputFile": "com.anyzebrowser.app-mergeDebugResources-50:/values-mr/values-mr.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nayak\\.gradle\\caches\\8.10.2\\transforms\\d68c4742ed99a5d54220e0be9b4ce3ca\\transformed\\jetified-ui-release\\res\\values-mr\\values-mr.xml",

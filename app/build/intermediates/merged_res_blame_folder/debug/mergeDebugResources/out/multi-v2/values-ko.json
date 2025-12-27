@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.mangabrowser.app-mergeDebugResources-50:/values-ko/values-ko.xml",
+            "outputFile": "com.anyzebrowser.app-mergeDebugResources-50:/values-ko/values-ko.xml",
             "map": [
                 {
                     "source": "C:\\Users\\nayak\\.gradle\\caches\\8.10.2\\transforms\\4a99147a0ec737f15d571c91982193a0\\transformed\\core-1.13.1\\res\\values-ko\\values-ko.xml",
